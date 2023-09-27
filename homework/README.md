@@ -1,7 +1,7 @@
-###HOMEWORK
-Hello miss Sera, here is my solution to the homework you gave us..
-Thank you
+<h1>HOMEWORK</h1><br>
+Hello miss Sera, here is my solution to the homework you gave us..<br>
+Thank you<br>
 
-Name: William Jonathan Mulyadi
-NIM: 2502045683
-Class:L5AC
+Name: William Jonathan Mulyadi<br>
+NIM: 2502045683<br>
+Class:L5AC<br>
